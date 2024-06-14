@@ -14,7 +14,7 @@ Made with ❤️ at <a href="https://treedom.net"><img src="https://i.ibb.co/QfY
 
 Share how much you care about the environment in every project you work on!
 
-[![Plant a Tree](https://badges.treedom.net/badge/f/treedom-open-source)](https://www.treedom.net/it/organization/treedom/event/treedom-open-source)
+[![Plant a Tree](https://badges.treedom.net/badge/f/treedom-open-source?0)](https://www.treedom.net/it/organization/treedom/event/treedom-open-source)
 
 ### How to use
 
