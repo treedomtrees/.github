@@ -2,7 +2,7 @@
  <a href="https://www.treedom.net"><img src="https://i.ibb.co/QfYVtP5/Treedom-logo.png" height="120" alt="treedom" border="0" /></a>
 </p>
 
-# We Love Open Source
+# We plant Trees and Love Open Source
 Treedom is a platform that allows anyone to plant trees in different countries around the world... and we also love open source! We usually develop our projects using a lot of great open-source tools like NodeJS, GraphQL, React, Terraform, CDK, OPAL, Kubernetes, and more. We are committed to improving our software and architectures every day, and sometimes we need to build libraries that don't yet exist or don’t perfectly fit our needs.
 
 Treedom has recently decided to open-source some of our libraries that could be useful to other developers. We are launching a dedicated project to support and maintain these libraries with the help of the community.
